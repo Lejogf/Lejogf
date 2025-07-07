@@ -1,5 +1,8 @@
 ## Hey, I'm Lejo George Fernandes🌟
 
+<p> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lejogf&label=Profile%20Views&color=blue&style=for-the-badge"alt="Total Profile Views"/></p>
+
 🚀 About Me
 
 ❤️ Computer Science student at Virginia Tech (VT)🧡<br/>
